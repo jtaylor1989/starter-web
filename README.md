@@ -19,3 +19,7 @@ any web server or even local file system.
 Are you going to choose Heroku or AWS ?
 
 ## How to Contribute
+
+## Copyright
+
+2017 Git.training
