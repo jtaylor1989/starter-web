@@ -26,4 +26,4 @@ Please fork this repository and then issue Pull requests for review.
 
 ## Copyright
 
-2017 Git training: All rights reserved.
+MIT License: 2017 Git training: All rights reserved.
