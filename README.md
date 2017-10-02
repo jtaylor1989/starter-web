@@ -22,4 +22,4 @@ Are you going to choose Heroku or AWS ?
 
 ## Copyright
 
-2017 Git.training
+2017 Git training: All rights reserved.
