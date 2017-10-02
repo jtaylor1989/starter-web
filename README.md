@@ -20,6 +20,8 @@ Are you going to choose Heroku or AWS ?
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull requests for review.
+
 ## Copyright
 
 2017 Git training: All rights reserved.
